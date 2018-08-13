@@ -13,8 +13,8 @@ function multiply(a,b){
   return a*b
 }
 
-function divide(a,b){
-  return a/b
+function divide(n){
+  return n+=1
 }
 
 function inc(a,b){
